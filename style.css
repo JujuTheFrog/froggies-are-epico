@@ -1,0 +1,87 @@
+nav {
+    padding: 10px;
+    height: 100%;
+    background-color:#dbb2c8;
+    font-family:"Courier New";
+    display: flex;
+    font-size: 18px;
+    width:100%;
+    justify-content:space-evenly;
+  }
+  
+  aside{
+    float:right;
+    height:560px;
+    display:flex;
+    width: 650px;
+  }
+  
+  p {
+    font-family:"Courier New";
+    font-size: 20px;
+    color: #dbb2c8;
+    background-color: white;
+    text-align: center;
+    margin-right: 18px;
+    padding: 10px;
+  /*   text-align: center; */
+  }
+  
+  ol {
+    font-family:"Courier New";
+    font-size: 20px;
+    color: #dbb2c8;
+    background-color: white;
+    text-align: center;
+    margin-right: 18px;
+    padding: 10px;
+  }
+  
+  h1 {
+    margin: 50px;
+    padding: 10px;
+    font-size: 70px;
+    font-family: "Courier New";
+    border: #dbb2c8 solid 10px;
+    color: #8c687b;
+    text-align: center;
+  }
+  
+  .feutured {
+    font-size: 25xp;
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 50px;
+    font-family: "Courier New";
+    color: #dbb2c8;
+    border: #dbb2c8 solid 4px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  body {
+    background-color: #f5cee9;
+  }
+  
+  img {
+    width: 40%;
+      margin: auto;
+      display: flex;
+      float: middle;
+  }
+  
+  footer{
+       height: 8vh;
+      display: flex;
+      float: middle;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      color: rgb(255, 255, 255);
+      justify-content: center;
+      background-color: #dbb2c8;
+  }
